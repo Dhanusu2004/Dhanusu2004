@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Hariharan%20HSL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI-Powered%20Builder&descAlignY=55&descSize=20" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=DHANUSU%20&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI-Powered%20Builder&descAlignY=55&descSize=20" width="100%" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="profile-circle.png" width="160" alt="Hariharan" />
+  <img src="profile-circle.png" width="160" alt="Dhanusu" />
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hariharan2619" target="_blank">
+  <!-- <a href="https://linkedin.com/in/hariharan2619" target="_blank"> -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hariharanhsl336@gmail.com">
+  <a href="mailto:dhanusu13052004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/hariharan-hsl" target="_blank">
+  <a href="https://github.com/Dhanusu2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://wa.me/919360242015" target="_blank">
@@ -43,8 +43,7 @@
 
 I'm a **Full Stack Developer** with hands-on experience building scalable, responsive web applications using the **MERN stack**. I love turning real-world problems into clean, maintainable code — and I'm currently on the hunt for an entry-level **Software Developer / Full Stack Developer** role where I can contribute to impactful digital products.
 
-- 🎓 B.Tech in Information Technology, Pondicherry University (2022 – 2026), CGPA: 8.00
-- 💼 Interned at **Relie-Tech** working on MERN full-stack development
+- 🎓 B.Tech in Information Technology, Pondicherry University (2022 – 2026), CGPA: 7.40%
 - 🧠 Also explored JavaScript, UI/UX Design, and Python across multiple internships
 - 🔭 Currently building **AI-Powered Full Stack Projects at Wrench Wise Institute**:
   - 🏥 **Healthcare Management System** — full-stack patient/appointment management app
@@ -59,8 +58,7 @@ I'm a **Full Stack Developer** with hands-on experience building scalable, respo
 
 ```text
 2026        🎓 Graduating — B.Tech IT, Pondicherry University
-2025 - 2026 🤖 AI-Powered Full Stack Projects @ Wrench Wise Institute
-2024 - 2025 💻 MERN Stack Intern @ Relie-Tech
+2025 - 2026 🤖 AI-Powered  MERN Full Stack Projects @ Wrench Wise Institute
 2023 - 2024 🎨 UI/UX Design & JavaScript Internships
 2022        🚀 Started B.Tech in Information Technology
 ```
@@ -106,13 +104,6 @@ Full-stack e-commerce platform with product catalog, cart, and order management 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**📈 StockPulse**
-Stock prediction dashboard with real-time data, technical indicators (SMA, EMA, RSI, MACD, Bollinger Bands), and news sentiment analysis.
-`React` `Flask` `BiLSTM` `BiGRU`
-
-</td>
 <td width="50%">
 
 **🏠 House Building Construction**
@@ -183,15 +174,14 @@ Responsive e-commerce interior design site with smooth animations and product ma
 
 ### 🏆 Certifications & Achievements
 
-- 🏅 AI-Powered Full Stack Development — Wrench Wise Institute
-- 🏅 MERN Stack Development — Relie-Tech Internship
+- 🏅 AI-Powered  MERN Full Stack Development — Wrench Wise Institute
 - 🏅 UI/UX Design Fundamentals
 - 🏅 Python Programming
 
 ---
 
 <p align="center">
-  📫 Reach me at <b>hariharanhsl336@gmail.com</b> | 📱 +91 9360242015
+  📫 Reach me at <b>dhanusu13052004@gmail.com</b> | 📱 +91 6369318281
 </p>
 
 <p align="center">
@@ -202,4 +192,3 @@ Responsive e-commerce interior design site with smooth animations and product ma
   <i>"Code is like humor. When you have to explain it, it's bad." 😄</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer" width="100%" alt="footer banner" />
