@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/dhanusu-e-9a04023a3"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:dhanusu13052004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA44F?style=for-the-badge">
 </p>
 
 <img src="divider.svg" width="100%" alt="">
