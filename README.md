@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Dhanusu E, Full Stack Developer" width="100%">
+  <img src="header.svg" alt="Dhanusu E, Full Stack Developer" width="100%">
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA44F?style=for-the-badge">
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## 👨‍💻 About
 
@@ -25,7 +25,7 @@ const dhanusu: Developer = {
 };
 ```
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## 🧰 Tech Stack
 
@@ -50,7 +50,7 @@ const dhanusu: Developer = {
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## 🛒 Featured Project: Blueshell E-Commerce Platform
 
@@ -95,7 +95,7 @@ sequenceDiagram
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## 🚀 Other Projects
 
@@ -105,7 +105,7 @@ sequenceDiagram
 | 🧳 **Tourism Management System** | Manages tourism details, listings and bookings with structured data storage | Web app |
 | 🫁 **Lung Disease Prediction** | Predicts lung disease from user input and medical data, and displays the result | Python |
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## 💼 Experience
 
@@ -115,7 +115,7 @@ sequenceDiagram
 | **Python Intern** | Tidal Neo · HTGE-Technology | Python development tasks, strengthening core programming and problem solving |
 | **UI/UX Design Intern** | HighKon Medias | Layouts, wireframes and prototypes in Figma for web apps |
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## 🎓 Education
 
@@ -125,7 +125,7 @@ sequenceDiagram
 | HSC | St. Joseph's Higher Secondary School | 2021 – 2022 | 70% |
 | SSLC | St. Joseph's Higher Secondary School | 2019 – 2020 | 76% |
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## 📫 Let's Connect
 
