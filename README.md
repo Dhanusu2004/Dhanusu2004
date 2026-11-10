@@ -1,5 +1,6 @@
-<h1 align="center">Dhanusu E</h1>
-<h3 align="center">Full Stack Developer · MERN Stack</h3>
+<p align="center">
+  <img src="assets/header.svg" alt="Dhanusu E, Full Stack Developer" width="100%">
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/dhanusu-e-9a04023a3"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -7,36 +8,31 @@
   <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA44F?style=for-the-badge">
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
-## 👨‍💻 whoami
+## 👨‍💻 About
 
-```bash
-$ whoami
-dhanusu-e
+Final-year **B.Tech Information Technology** student (Pondicherry University, 2026) and **MERN stack developer**. I build responsive interfaces, secure REST APIs and database-driven apps, with internships in MERN development, Python and UI/UX design. I'm looking for an entry-level Software Developer role.
 
-$ cat profile.json
-{
-  "role": "Full Stack Developer (MERN)",
-  "education": "B.Tech Information Technology, Pondicherry University (2026)",
-  "location": "Puducherry, India",
-  "stack": ["MongoDB", "Express.js", "React.js", "Node.js"],
-  "also": ["Python", "Tailwind CSS", "Figma"],
-  "auth": "JWT",
-  "looking_for": "Entry-level Software Developer role"
-}
+```ts
+const dhanusu: Developer = {
+  role: "Full Stack Developer (MERN)",
+  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+  auth: "JWT",
+  styling: ["Tailwind CSS", "CSS3"],
+  alsoKnows: ["Python", "SQL", "Figma"],
+  openToWork: true,
+};
 ```
 
-I build responsive interfaces, secure REST APIs and database-driven web apps. I've done internships in **MERN development**, **Python** and **UI/UX design**, and I'm looking for a team where I can ship real products and keep learning.
-
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🧰 Tech Stack
 
 | Area | Technologies |
 |:--|:--|
 | **Frontend** | React.js · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS |
-| **Backend** | Node.js · Express.js · RESTful APIs · CRUD · JWT Authentication |
+| **Backend** | Node.js · Express.js · REST APIs · CRUD · JWT Authentication |
 | **Database** | MongoDB · Mongoose · SQL |
 | **Languages** | JavaScript · Python |
 | **Tools** | Git · GitHub · VS Code · Postman · Figma |
@@ -54,72 +50,72 @@ I build responsive interfaces, secure REST APIs and database-driven web apps. I'
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 🛒 Featured Project: Blueshell E-Commerce Platform
+
+Full stack MERN e-commerce app with a responsive UI, REST APIs and JWT-secured authentication.
+
+**Architecture**
+
+```mermaid
+flowchart LR
+    A[React + Tailwind<br/>Client] -->|HTTPS · JSON| B[Express.js<br/>REST API]
+    B --> C[Auth middleware<br/>JWT verify]
+    C --> D[Controllers]
+    D --> E[(MongoDB<br/>via Mongoose)]
+```
+
+**Authentication flow**
+
+```mermaid
+sequenceDiagram
+    participant U as User
+    participant C as React client
+    participant S as Express API
+    participant D as MongoDB
+    U->>C: Login (email, password)
+    C->>S: POST /auth/login
+    S->>D: Find user, compare password hash
+    D-->>S: User record
+    S-->>C: Signed JWT
+    C->>S: Request + Authorization: Bearer token
+    S->>S: Verify token, check role
+    S-->>C: Protected data
+```
+
+<details>
+<summary><b>Technical details</b></summary>
+
+- **Frontend:** component-based React.js UI styled with Tailwind CSS, responsive across screen sizes
+- **Backend:** RESTful APIs in Node.js and Express.js with CRUD operations
+- **Database:** MongoDB with Mongoose schemas and models
+- **Security:** JWT-based authentication and authorization
+- **Tested with:** Postman during API development
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 🚀 Other Projects
+
+| Project | What it does | Tech |
+|:--|:--|:--|
+| 🏥 **Hospital Appointment Booking** | Online appointment booking with form handling and validation of appointment details | HTML · CSS · JavaScript |
+| 🧳 **Tourism Management System** | Manages tourism details, listings and bookings with structured data storage | Web app |
+| 🫁 **Lung Disease Prediction** | Predicts lung disease from user input and medical data, and displays the result | Python |
+
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 💼 Experience
 
-**MERN Full Stack Intern** · *Valvanet Technologies*
-- Built full stack features with MongoDB, Express.js, React.js and Node.js
-- Created responsive React components integrated with backend REST APIs
-- Designed MongoDB schemas and implemented CRUD operations
+| Role | Company | Highlights |
+|:--|:--|:--|
+| **MERN Full Stack Intern** | Valvanet Technologies | Built full stack features, responsive React components wired to REST APIs, and MongoDB schemas with CRUD |
+| **Python Intern** | Tidal Neo · HTGE-Technology | Python development tasks, strengthening core programming and problem solving |
+| **UI/UX Design Intern** | HighKon Medias | Layouts, wireframes and prototypes in Figma for web apps |
 
-**Python Intern** · *Tidal Neo, HTGE-Technology*
-- Completed Python development tasks, strengthening core programming and problem solving
-
-**UI/UX Design Intern** · *HighKon Medias*
-- Designed layouts, wireframes and prototypes in Figma for web applications
-
----
-
-## 🚀 Projects
-
-### 🛒 Blueshell E-Commerce Platform
-Full stack MERN e-commerce application.
-
-<details>
-<summary>View details</summary>
-
-- Responsive UI built with **React.js** and **Tailwind CSS**
-- RESTful APIs with **Node.js** and **Express.js**
-- Data modelled with **MongoDB** and **Mongoose**
-- Secure authentication and authorization using **JWT**
-
-</details>
-
-### 🏥 Hospital Appointment Booking System
-Front-end web app for booking hospital appointments online.
-
-<details>
-<summary>View details</summary>
-
-- Responsive interface built with **HTML** and **CSS**
-- Form handling and validation of appointment details with **JavaScript**
-
-</details>
-
-### 🧳 Tourism Management System
-Web application to manage tourism details, listings and bookings.
-
-<details>
-<summary>View details</summary>
-
-- Structured data storage
-- Clean, easy-to-use interface
-
-</details>
-
-### 🫁 Lung Disease Prediction System
-Predicts lung disease from user input and medical data.
-
-<details>
-<summary>View details</summary>
-
-- Prediction logic implemented in code
-- User-friendly interface that displays the results
-
-</details>
-
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🎓 Education
 
@@ -129,12 +125,9 @@ Predicts lung disease from user input and medical data.
 | HSC | St. Joseph's Higher Secondary School | 2021 – 2022 | 70% |
 | SSLC | St. Joseph's Higher Secondary School | 2019 – 2020 | 76% |
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [dhanusu-e](https://linkedin.com/in/dhanusu-e-9a04023a3)
-- 📧 Email: [dhanusu13052004@gmail.com](mailto:dhanusu13052004@gmail.com)
-- 🐙 GitHub: [@Dhanusu2004](https://github.com/Dhanusu2004)
-
-<p align="center"><sub>Thanks for visiting my profile ⭐</sub></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanusu--e-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanusu-e-9a04023a3)
+[![Email](https://img.shields.io/badge/dhanusu13052004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhanusu13052004@gmail.com)
